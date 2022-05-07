@@ -1,6 +1,6 @@
 # EMO4Streetscape
 
-**Readme: English | 中文**
+**Readme: [English](##English Version) | [中文](##中文说明)**
 
 ***Construction in process...***
 
@@ -16,6 +16,17 @@ This repository is based on my dissertation submitted for Master of Landscape Ar
 ------
 
 ## English Version
+
+### Environment
+
+- Python 3.6+
+- Essential library:
+  - Numpy
+  - Pandas
+  - Matplotlib
+  - Tensorflow
+  - Deeplab2 (https://github.com/google-research/deeplab2)
+  - Geatpy (http://geatpy.com | https://github.com/geatpy-dev/geatpy)
 
 ### Structure of Repository
 
@@ -35,6 +46,17 @@ This repository is based on my dissertation submitted for Master of Landscape Ar
 ---
 
 ## 中文说明
+
+### 运行环境
+
+- Python 3.6+
+- Essential library:
+  - Numpy
+  - Pandas
+  - Matplotlib
+  - Tensorflow
+  - Deeplab2 (https://github.com/google-research/deeplab2)
+  - Geatpy (http://geatpy.com | https://github.com/geatpy-dev/geatpy)
 
 ### 目录结构
 
