@@ -1,6 +1,6 @@
 # EMO4Streetscape
 
-**Readme: [English](##English Version) | [中文](##中文说明)**
+**Readme: [English](#English-Version) | [中文](#中文说明)**
 
 ***Construction in process...***
 
