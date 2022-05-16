@@ -35,5 +35,5 @@ dir_sheet = "../Sheet/"             # Table sheets
 
 
 # global prefix 
-pEg = "eg_"                         # Example
+pEG = "eg_"                         # Example
 
