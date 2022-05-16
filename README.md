@@ -32,7 +32,12 @@ This repository is based on my dissertation submitted for Master of Landscape Ar
 
 ### Change Log
 
+[Change Log](changelog.md#Change Log)
+
 ### To-Do List
+
+[ ] Initialization tools of GIS data
+[ ] Initialization tools of GSV data list for obtaining the images
 
 ### License
 
@@ -62,7 +67,12 @@ This repository is based on my dissertation submitted for Master of Landscape Ar
 
 ### 更新日志
 
+[更新日志](changelog.md#更新日志)
+
 ### 待办清单
+
+[ ] GIS数据初始化工具（供本研究分析用）
+[ ] GSV数据初始化工具和处理器（供GSV图像获取用）
 
 ### 许可
 
