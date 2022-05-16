@@ -33,7 +33,7 @@ This repository is based on my dissertation submitted for Master of Landscape Ar
 
 ### Change Log
 
-[Change Log](changelog.md)
+[Change Log](CHANGELOG.md#Change-Log)
 
 ### To-Do List
 
@@ -70,7 +70,7 @@ This repository is based on my dissertation submitted for Master of Landscape Ar
 
 ### 更新日志
 
-[更新日志](changelog.md)
+[更新日志](CHANGELOG.md#更新日志)
 
 ### 待办清单
 
